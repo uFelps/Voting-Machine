@@ -2,6 +2,14 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voting-Machine.Api", "Voting-Machine.Api\Voting-Machine.Api.csproj", "{F1A88260-8AB5-4786-9A8F-E97E62CD3C40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voting-Machine.Domain", "Voting-Machine.Domain\Voting-Machine.Domain.csproj", "{FCB3111D-68DF-4671-BC0F-9E7C71DACE12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voting-Machine.Application", "Voting-Machine.Application\Voting-Machine.Application.csproj", "{6491CDDA-6F1F-49ED-820C-33742FC298F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voting-Machine.Infra.Data", "Voting-Machine.Infra.Data\Voting-Machine.Infra.Data.csproj", "{912E6C7C-0519-49F8-9F76-F7DA73628454}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voting-Machine.Infra.Ioc", "Voting-Machine.Infra.Ioc\Voting-Machine.Infra.Ioc.csproj", "{680B1A9A-F873-4E97-B855-FA77A3E2E4EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +20,21 @@ Global
 		{F1A88260-8AB5-4786-9A8F-E97E62CD3C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1A88260-8AB5-4786-9A8F-E97E62CD3C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1A88260-8AB5-4786-9A8F-E97E62CD3C40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB3111D-68DF-4671-BC0F-9E7C71DACE12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB3111D-68DF-4671-BC0F-9E7C71DACE12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB3111D-68DF-4671-BC0F-9E7C71DACE12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB3111D-68DF-4671-BC0F-9E7C71DACE12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6491CDDA-6F1F-49ED-820C-33742FC298F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6491CDDA-6F1F-49ED-820C-33742FC298F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6491CDDA-6F1F-49ED-820C-33742FC298F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6491CDDA-6F1F-49ED-820C-33742FC298F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{912E6C7C-0519-49F8-9F76-F7DA73628454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912E6C7C-0519-49F8-9F76-F7DA73628454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{912E6C7C-0519-49F8-9F76-F7DA73628454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{912E6C7C-0519-49F8-9F76-F7DA73628454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{680B1A9A-F873-4E97-B855-FA77A3E2E4EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680B1A9A-F873-4E97-B855-FA77A3E2E4EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680B1A9A-F873-4E97-B855-FA77A3E2E4EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680B1A9A-F873-4E97-B855-FA77A3E2E4EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
