@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Voting-Machine.Infra.Ioc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a31f003357e28ab1352ae9f256458bfb3b95501e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb264134fd31ad3364737fc7b69b70fdafdc2e85")]
 [assembly: System.Reflection.AssemblyProductAttribute("Voting-Machine.Infra.Ioc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Voting-Machine.Infra.Ioc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

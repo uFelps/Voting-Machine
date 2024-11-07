@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lEp8tOJ8FqnHUA1Dm7+Cx7L67oN5M5xJQA3GdGhfpDs=",
+  "Source": "Voting-Machine.Api",
+  "BasePath": "_content/Voting-Machine.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

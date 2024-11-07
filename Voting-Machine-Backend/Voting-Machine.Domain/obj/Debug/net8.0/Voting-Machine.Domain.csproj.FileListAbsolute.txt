@@ -1,0 +1,12 @@
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Domain\bin\Debug\net8.0\Voting-Machine.Domain.deps.json
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Domain\bin\Debug\net8.0\Voting-Machine.Domain.dll
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Domain\bin\Debug\net8.0\Voting-Machine.Domain.pdb
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Domain\obj\Debug\net8.0\Voting-Machine.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Domain\obj\Debug\net8.0\Voting-Machine.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Domain\obj\Debug\net8.0\Voting-Machine.Domain.AssemblyInfo.cs
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Domain\obj\Debug\net8.0\Voting-Machine.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Domain\obj\Debug\net8.0\Voting-Machine.Domain.sourcelink.json
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Domain\obj\Debug\net8.0\Voting-Machine.Domain.dll
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Domain\obj\Debug\net8.0\refint\Voting-Machine.Domain.dll
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Domain\obj\Debug\net8.0\Voting-Machine.Domain.pdb
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Domain\obj\Debug\net8.0\ref\Voting-Machine.Domain.dll

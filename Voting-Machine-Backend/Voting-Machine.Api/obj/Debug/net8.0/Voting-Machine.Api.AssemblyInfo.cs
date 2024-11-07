@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Voting-Machine.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb264134fd31ad3364737fc7b69b70fdafdc2e85")]
 [assembly: System.Reflection.AssemblyProductAttribute("Voting-Machine.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Voting-Machine.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
