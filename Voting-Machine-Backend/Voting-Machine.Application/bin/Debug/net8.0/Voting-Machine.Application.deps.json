@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Voting-Machine.Application/1.0.0": {
+        "dependencies": {
+          "Voting-Machine.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Voting-Machine.Application.dll": {}
+        }
+      },
+      "Voting-Machine.Domain/1.0.0": {
+        "runtime": {
+          "Voting-Machine.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Voting-Machine.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Voting-Machine.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

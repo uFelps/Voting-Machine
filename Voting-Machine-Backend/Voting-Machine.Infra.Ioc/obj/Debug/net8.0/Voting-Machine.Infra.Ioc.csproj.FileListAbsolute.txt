@@ -16,3 +16,5 @@ C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Inf
 C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Infra.Ioc\obj\Debug\net8.0\refint\Voting-Machine.Infra.Ioc.dll
 C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Infra.Ioc\obj\Debug\net8.0\Voting-Machine.Infra.Ioc.pdb
 C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Infra.Ioc\obj\Debug\net8.0\ref\Voting-Machine.Infra.Ioc.dll
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Infra.Ioc\bin\Debug\net8.0\Voting-Machine.Application.dll
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Infra.Ioc\bin\Debug\net8.0\Voting-Machine.Application.pdb

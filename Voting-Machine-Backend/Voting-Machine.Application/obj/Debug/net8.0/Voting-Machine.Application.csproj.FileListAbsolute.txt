@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Application\bin\Debug\net8.0\Voting-Machine.Application.deps.json
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Application\bin\Debug\net8.0\Voting-Machine.Application.dll
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Application\bin\Debug\net8.0\Voting-Machine.Application.pdb
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Application\obj\Debug\net8.0\Voting-Machine.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Application\obj\Debug\net8.0\Voting-Machine.Application.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Application\obj\Debug\net8.0\Voting-Machine.Application.AssemblyInfo.cs
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Application\obj\Debug\net8.0\Voting-Machine.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Application\obj\Debug\net8.0\Voting-Machine.Application.sourcelink.json
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Application\obj\Debug\net8.0\Voting-Machine.Application.dll
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Application\obj\Debug\net8.0\refint\Voting-Machine.Application.dll
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Application\obj\Debug\net8.0\Voting-Machine.Application.pdb
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Application\obj\Debug\net8.0\ref\Voting-Machine.Application.dll
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Application\bin\Debug\net8.0\Voting-Machine.Domain.dll
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Application\bin\Debug\net8.0\Voting-Machine.Domain.pdb
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Application\obj\Debug\net8.0\Voting-Machine.Application.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Application\obj\Debug\net8.0\Voting-M.3A00398F.Up2Date

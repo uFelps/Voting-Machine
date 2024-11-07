@@ -47,3 +47,5 @@ C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Api
 C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Api\obj\Debug\net8.0\Voting-Machine.Api.pdb
 C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Api\obj\Debug\net8.0\Voting-Machine.Api.genruntimeconfig.cache
 C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Api\obj\Debug\net8.0\ref\Voting-Machine.Api.dll
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Api\bin\Debug\net8.0\Voting-Machine.Application.dll
+C:\Users\User\Documents\Voting-Machine\Voting-Machine-Backend\Voting-Machine.Api\bin\Debug\net8.0\Voting-Machine.Application.pdb

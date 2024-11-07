@@ -10,6 +10,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "8.0.10",
           "Swashbuckle.AspNetCore": "6.6.2",
+          "Voting-Machine.Application": "1.0.0",
           "Voting-Machine.Infra.Ioc": "1.0.0"
         },
         "runtime": {
@@ -195,6 +196,17 @@
           }
         }
       },
+      "Voting-Machine.Application/1.0.0": {
+        "dependencies": {
+          "Voting-Machine.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Voting-Machine.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Voting-Machine.Domain/1.0.0": {
         "runtime": {
           "Voting-Machine.Domain.dll": {
@@ -219,6 +231,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore.InMemory": "8.0.10",
           "Microsoft.Extensions.Configuration": "8.0.0",
+          "Voting-Machine.Application": "1.0.0",
           "Voting-Machine.Infra.Data": "1.0.0"
         },
         "runtime": {
@@ -382,6 +395,11 @@
       "sha512": "sha512-mBBb+/8Hm2Q3Wygag+hu2jj69tZW5psuv0vMRXY07Wy+Rrj40vRP8ZTbKBhs91r45/HXT4aY4z0iSBYx1h6JvA==",
       "path": "swashbuckle.aspnetcore.swaggerui/6.6.2",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+    },
+    "Voting-Machine.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Voting-Machine.Domain/1.0.0": {
       "type": "project",

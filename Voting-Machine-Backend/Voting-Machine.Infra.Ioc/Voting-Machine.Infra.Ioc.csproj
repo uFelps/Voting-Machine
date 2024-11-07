@@ -8,6 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\Voting-Machine.Application\Voting-Machine.Application.csproj" />
       <ProjectReference Include="..\Voting-Machine.Infra.Data\Voting-Machine.Infra.Data.csproj" />
     </ItemGroup>
 
