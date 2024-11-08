@@ -26,4 +26,10 @@ public class CandidateRepository : ICandidateRepository
         return await _context.Candidates
             .FirstOrDefaultAsync(x => x.Id == id);
     }
+
+    public async void DeleteCandidate(Candidate candidate)
+    {
+        _context.Candidates.Remove(candidate);
+        await _context.SaveChangesAsync();
+    }
 }

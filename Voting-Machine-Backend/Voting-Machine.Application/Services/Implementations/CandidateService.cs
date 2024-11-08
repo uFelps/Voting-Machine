@@ -39,4 +39,18 @@ public class CandidateService : ICandidateService
 
         return new CandidateDto(user);
     }
+
+    public async Task<bool> DeleteCandidate(int id)
+    {
+        var candidate = await _repository.GetCandidateById(id);
+
+        if (candidate == null)
+        {
+            throw new DataNotFoundException($"User not found: ID={id}");
+        }
+        
+        _repository.DeleteCandidate(candidate);
+
+        return true;
+    }
 }

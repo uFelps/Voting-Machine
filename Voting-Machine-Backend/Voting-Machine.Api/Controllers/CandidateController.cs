@@ -30,7 +30,7 @@ public class CandidateController : ControllerBase
 
     }
     
-    [HttpGet("/{id:int}")]
+    [HttpGet("{id:int}")]
     public async Task<ActionResult<CandidateDto>> GetCandidateById(int id)
     {
         try
@@ -41,6 +41,20 @@ public class CandidateController : ControllerBase
         catch (DataNotFoundException e)
         {
             return BadRequest($"Data not found exception: {e.Message}");
+        }
+    }
+
+    [HttpDelete("{id:int}")]
+    public async Task<ActionResult> DeleteCandidate(int id)
+    {
+        try
+        {
+            await _service.DeleteCandidate(id);
+            return NoContent();
+        }
+        catch (DataNotFoundException e)
+        {
+            return BadRequest(new {message = e.Message});
         }
     }
 }

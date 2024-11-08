@@ -6,4 +6,5 @@ public interface ICandidateRepository
 {
     Task<Candidate> CreateCandidate(Candidate candidate);
     Task<Candidate?> GetCandidateById(int id);
+    void DeleteCandidate(Candidate candidate);
 }
